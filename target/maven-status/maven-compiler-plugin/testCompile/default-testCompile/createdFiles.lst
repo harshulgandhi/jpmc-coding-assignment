@@ -1,0 +1,5 @@
+com/jpmc/securitiesmanager/SecurityManagerTest$TradeEventFactory.class
+com/jpmc/securitiesmanager/CsvInputReaderImplTest.class
+com/jpmc/securitiesmanager/SecurityManagerTest$PositionRecordFactory.class
+com/jpmc/securitiesmanager/SecurityManagerTest.class
+com/jpmc/securitiesmanager/TradeValidatorImplTest.class
